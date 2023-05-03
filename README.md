@@ -29,4 +29,4 @@
 
 <h2>Acknowledgements</h2>
 
-<p>This application was created as part of a project in the Udemy course <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>.</p>
+<p>This application was created as part of a project in the Udemy course <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2023 Web Development Bootcamp</a>.</p>
