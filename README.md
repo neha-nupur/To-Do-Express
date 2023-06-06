@@ -1,7 +1,7 @@
 # To-Do-Express
-<h2>Getting Started</h2>
+## Getting Started
 
-<p>To get started with this project, you will need to have <strong>Node.js</strong> installed on your system.</p>
+To get started with this project, you will need to have <strong>Node.js</strong> installed on your system.
 
 <ol>
 	<li>Clone the repository to your local machine</li>
@@ -11,7 +11,7 @@
 	<li>Open your favourite web browser and navigate to <code>http://localhost:3000</code> to view the application.</li>
 </ol>
 
-<h2>Features</h2>
+## Features
 
 <ul>
 	<li>Add new items to your to-do list</li>
@@ -19,7 +19,7 @@
 	<li>Separate work to-do list</li>
 </ul>
 
-<h2>Dependencies</h2>
+## Dependencies
 
 <ul>
 	<li>body-parser: "^1.19.0"</li>
@@ -27,6 +27,11 @@
 	<li>express: "^4.17.1"</li>
 </ul>
 
-<h2>Acknowledgements</h2>
+## Acknowledgements
 
 <p>This application was created as part of a project in the Udemy course <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2023 Web Development Bootcamp</a>.</p>
+
+## Screenshot
+![To Do Express](https://github.com/neha-nupur/To-Do-Express/assets/110279038/40bd7b58-3069-4d1b-b6d3-389fb1d11d74)
+
+
